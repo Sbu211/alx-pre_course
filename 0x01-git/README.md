@@ -1,1 +1,1 @@
-My second readme
+The project directory
